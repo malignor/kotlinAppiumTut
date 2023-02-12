@@ -1,0 +1,1 @@
+C:\Users\malig\localGitRepos\AppiumKotlinJUnitEx1\build\classes\kotlin\main\MainKt.class
