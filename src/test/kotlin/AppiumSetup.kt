@@ -11,6 +11,7 @@ import java.net.URL
 open class AppiumSetup {
 
     companion object {
+        // cool beans
 
         private const val activityName = "com.android.calculator2.Calculator"
         private const val appPackage = "com.google.android.calculator"
