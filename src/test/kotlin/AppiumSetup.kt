@@ -13,8 +13,8 @@ open class AppiumSetup {
     companion object {
         // cool beans
 
-        private const val activityName = "com.android.calculator2.Calculator"
-        private const val appPackage = "com.google.android.calculator"
+        private const val activityName = "com.fivemobile.thescore.ui.MainActivity"
+        private const val appPackage = "com.fivemobile.thescore"
         private const val automationName = "UiAutomator2"
         private const val platformName = "Android"
         private const val serverUrl = "http://localhost:4723/wd/hub"

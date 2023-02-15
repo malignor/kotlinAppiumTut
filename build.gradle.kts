@@ -13,10 +13,14 @@ repositories {
 }
 
 dependencies {
+    implementation("com.mikemybytes:junit5-formatted-source-parent:0.2.0")
+    implementation("com.mikemybytes:junit5-formatted-source-tests:0.2.0")
+    implementation("com.mikemybytes:junit5-formatted-source:0.2.0")
     testImplementation(kotlin("test"))
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.2")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.8.2")
     testImplementation("io.appium:java-client:7.6.0")
+    testImplementation("org.junit.jupiter:junit-jupiter-params:5.1.0")
 }
 
 tasks.test {

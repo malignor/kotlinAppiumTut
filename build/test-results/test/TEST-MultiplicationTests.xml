@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MultiplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-12T23:54:31" hostname="STARKYPANTS" time="3.664">
-  <properties/>
-  <testcase name="Simple multiplication give correct result()" classname="MultiplicationTests" time="3.664"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Feb. 12, 2023 6:54:31 P.M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
-INFO: Detected dialect: W3C
-]]></system-err>
-</testsuite>
