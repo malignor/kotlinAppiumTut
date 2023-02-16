@@ -47,4 +47,6 @@ This will execute the tests and generate reports in
 * [build/reports/tests/test/index.html]()
 * [build/test-junit-xml/TEST-TheScoreOperations.xml]()
 * [build/test-results/test/TEST-TheScoreOperations.xml]()
+
+They aren't in this git repo, but you can see them after you execute.
 Default reports are basic, but I added some verbosity in JSON format.
