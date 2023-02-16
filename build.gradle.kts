@@ -25,6 +25,9 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+    reports {
+        junitXml.outputLocation.set(layout.buildDirectory.dir("test-junit-xml"))
+    }
 }
 
 tasks.withType<KotlinCompile> {
